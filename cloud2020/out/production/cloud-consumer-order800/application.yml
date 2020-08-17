@@ -1,0 +1,7 @@
+server:
+  port: 80
+spring:
+  devtools:
+    restart:
+      poll-interval: 3000ms
+      quiet-period: 2999ms
